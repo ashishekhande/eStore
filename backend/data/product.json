@@ -10,6 +10,7 @@
         }],
         "category" : "Electronics",
         "seller" : "Ebay",
+        "visible" : true,
         "stock" : 50,
         "numOfReviews" : 32,
         "reviews": []
@@ -25,6 +26,7 @@
         }],
         "category" : "Electronics",
         "seller" : "Amazon",
+        "visible" : true,
         "stock" : 0,
         "numOfReviews" : 2,
         "reviews": []
@@ -40,6 +42,7 @@
         }],
         "category" : "Electronics",
         "seller" : "Amazon",
+        "visible" : true,
         "stock" : 1,
         "numOfReviews" : 12,
         "reviews": []
@@ -55,6 +58,7 @@
         }],
         "category" : "Headphones",
         "seller" : "Amazon",
+        "visible" : true,
         "stock" : 11,
         "numOfReviews" : 112,
         "reviews": []
@@ -70,6 +74,7 @@
         }],
         "category" : "Electronics",
         "seller" : "Amazon",
+        "visible" : true,
         "stock" : 122,
         "numOfReviews" : 2671,
         "reviews": []
@@ -85,6 +90,7 @@
         }],
         "category" : "Accessories",
         "seller" : "Amazon",
+        "visible" : true,
         "stock" : 1123,
         "numOfReviews" : 6,
         "reviews": []
@@ -100,6 +106,7 @@
         }],
         "category" : "Cameras",
         "seller" : "Amazon",
+        "visible" : true,
         "stock" : 131,
         "numOfReviews" : 222,
         "reviews": []
@@ -116,6 +123,7 @@
         "category" : "Laptops",
         "seller" : "Amazon",
         "stock" : 0,
+        "visible" : true,
         "numOfReviews" : 56,
         "reviews": []
     },

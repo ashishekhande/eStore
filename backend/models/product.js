@@ -91,6 +91,10 @@ const productSchema = new mongoose.Schema({
     type: Date,
     default: Date.now,
   },
+  updatedOn: {
+    type: Date,
+    default: Date.now,
+  },
 });
 
 module.exports = mongoose.model("product", productSchema);
